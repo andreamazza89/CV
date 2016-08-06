@@ -3,13 +3,20 @@
 
 [skills](#skills) | [projects](#projects) | [community](#community) | [experience](#experience) | [education](#education) | [other interests](#Other interests)
 
-**lorem lorem lorem basilico lorem lorem lorem basilico lorem lorem lorem basilico lorem lorem lorem basilico 
-lorem lorem lorem basilicolorem lorem lorem basilicolorem lorem lorem basilico
-lorem lorem lorem basilicolorem lorem lorem basilico**
+keywords for intro: curious, feedback lover, addicted to learning and continuous improvement, allergic to any code that is not well crafted, clean and simple. Positivity. TDD, method and structure.
 
 ## Skills
 
 ## Projects
+
+|Github|Description|Highlights|Technologies|
+|---|---|---|---|
+|[SMRT mirror](https://github.com/vannio/smrt-mirror)|Description|Highlights|technologies|
+|[Battlecodes](https://github.com/gtormiston/battlecodes)|Description|Highlights|technologies|
+|[Unicorn Framework](https://github.com/vannio/unicorn-framework)|Description|Highlights|technologies|
+|[InstaRails](https://github.com/andreamazza89/instagram-challenge)|Description|Highlights|technologies|
+
+
 
 ## Community
 
@@ -21,10 +28,6 @@ As a relatively new member of the community I have both enoyed learning from pas
 * Arranged and ran workshops for junior Makers Academy students. See [this link] (https://github.com/andreamazza89/presentations/tree/master) to my presentations.  
 * Member of the London Software Craftmanship Community. Evening pairing sessions are my favourite.
 * Frequently attend meetups to learn, hear about new technologies and exchange opinions. See a [post] (https://andreacodesblog.wordpress.com/2016/06/18/meetups-are-the-bomb/) on this.
-
-
-
-
 
 ## Experience
 
