@@ -7,6 +7,19 @@ keywords for intro: curious, feedback lover, addicted to learning and continuous
 
 ## Skills
 
+#### Analitical Thinking
+
+#### Simplicity
+
+#### Good design principles
+
+#### Communication
+
+#### Fast learning
+
+#### Can do, will do
+
+
 ## Projects
 
 |Github|Description|Highlights|Technologies|
@@ -24,7 +37,7 @@ Together we are stronger, and by helping others grow, we grow as well.
 
 As a relatively new member of the community I have both enoyed learning from passionate senior developers and giving back as much as I can.
 
-* Volunteer as a coach at [Codebar] (https://codebar.io/), a non-profit initiative running workshops for underrepresented groups. 
+* Coaching volunteer at [Codebar] (https://codebar.io/), a non-profit initiative running workshops for underrepresented groups. 
 * Arranged and ran workshops for junior Makers Academy students. See [this link] (https://github.com/andreamazza89/presentations/tree/master) to my presentations.  
 * Member of the London Software Craftmanship Community. Evening pairing sessions are my favourite.
 * Frequently attend meetups to learn, hear about new technologies and exchange opinions. See a [post] (https://andreacodesblog.wordpress.com/2016/06/18/meetups-are-the-bomb/) on this.
