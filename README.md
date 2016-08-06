@@ -3,15 +3,16 @@
 
 [skills](#skills) | [projects](#projects) | [community](#community) | [experience](#experience) | [education](#education) | [other interests](#Other interests)
 
+I am curious about most things.
 keywords for intro: curious, feedback lover, addicted to learning and continuous improvement, allergic to any code that is not well crafted, clean and simple. Positivity. TDD, method and structure.
 
 ## Skills
 
 #### Analitical Thinking
 
-#### Simplicity
+#### Problem solving
 
-#### Good design principles
+#### Good design principles, simplicity
 
 #### Communication
 
@@ -35,7 +36,7 @@ keywords for intro: curious, feedback lover, addicted to learning and continuous
 
 Together we are stronger, and by helping others grow, we grow as well.
 
-As a relatively new member of the community I have both enoyed learning from passionate senior developers and giving back as much as I can.
+As a member of the community I have both enoyed learning from passionate senior developers and giving back as much as I can.
 
 * Coaching volunteer at [Codebar] (https://codebar.io/), a non-profit initiative running workshops for underrepresented groups. 
 * Arranged and ran workshops for junior Makers Academy students. See [this link] (https://github.com/andreamazza89/presentations/tree/master) to my presentations.  
