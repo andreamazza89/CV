@@ -3,8 +3,9 @@
 
 [skills](#skills) | [projects](#projects) | [community](#community) | [experience](#experience) | [education](#education) | [other interests](#Other interests)
 
-I am curious about most things.
-keywords for intro: curious, feedback lover, addicted to learning and continuous improvement, allergic to any code that is not well crafted, clean and simple. Positivity. TDD, method and structure.
+I am curious about most things. This drives me to learn more everyday and deepen my understanding of what I already know. I have come to appreciate and actively seek feedback as this helps me improve faster, both as a person and a developer. I am allergic to any code that **is not** well crafted, clean, clearly named, modular and simple. If I work on any codebase that has these attributes, I try to leave it in a better state than I found it.
+
+Having graduated from [Makers Academy] (http://www.makersacademy.com), I look forward to joining a company where I can make a difference as a junior developer, contibuting with my skills and positivity. I subscribe to Agile/XP values, and would like to carry on pairing and test-driving development in my work as a software engineer.   
 
 ## Skills
 
@@ -41,7 +42,7 @@ As a member of the community I have both enoyed learning from passionate senior 
 * Coaching volunteer at [Codebar] (https://codebar.io/), a non-profit initiative running workshops for underrepresented groups. 
 * Arranged and ran workshops for junior Makers Academy students. See [this link] (https://github.com/andreamazza89/presentations/tree/master) to my presentations.  
 * Member of the London Software Craftmanship Community. Evening pairing sessions are my favourite.
-* Frequently attend meetups to learn, hear about new technologies and exchange opinions. See a [post] (https://andreacodesblog.wordpress.com/2016/06/18/meetups-are-the-bomb/) on this.
+* Frequently attend meetups to learn, hear about new technologies and exchange opinions. See a [post] (https://andreacodesblog.wordpress.com/2016/06/18/meetups-are-the-bomb/) I wrote on this.
 
 ## Experience
 
