@@ -29,7 +29,7 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com), I look fo
 |[Battlecodes](https://github.com/gtormiston/battlecodes)|Description|Highlights|technologies|
 |[Unicorn Framework](https://github.com/vannio/unicorn-framework)|Description|Highlights|technologies|
 |[InstaRails](https://github.com/andreamazza89/instagram-challenge)|Description|Highlights|technologies|
-|[SMRT mirror](https://github.com/vannio/smrt-mirror)|A mirror with integrated display that shows a number of widgets, including news, time, weather, etc. With radio alarm and gesture control. Watch a [video] (https://www.youtube.com/watch?v=OYk-d6q4iWI&feature=youtu.be) of the product.|- Use of templating to dynamically render views based on user configuration. <br> - Asynchronous api interactions <br> - Direct user interaction with hand gesetures |Node.js, Sass, jQuery, Browsersync, Leap Motion, Nunjucks|
+|[SMRT mirror](https://github.com/vannio/smrt-mirror)|A mirror with integrated display showing a number of widgets: news, time, weather, etc. <br> Includes radio alarm and gesture control. <br> Watch a [video] (https://www.youtube.com/watch?v=OYk-d6q4iWI&feature=youtu.be) of the product.|- Use of templating to dynamically render views based on user configuration. <br> - Asynchronous api interactions <br> - Direct user interaction with hand gesetures |Node.js, Sass, jQuery, Browsersync, Leap Motion, Nunjucks|
 
 
 
