@@ -22,7 +22,7 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16-week
  * Take pride in the code I produce and always ask myself if it could be made simpler, more efficient and easier to understand.
  * Endeavour to write code that is easily extensible and reusable, most often choosing modular over monolithic. I wrote about this in a [blog post] (https://andreacodesblog.wordpress.com/2016/06/11/i-smashed-my-headphones-and-now-i-am-a-better-programmer/).  
  * Attention to detail, including choice of names. I carefully pick the clearest, most descriptive and least ambiguous name I can think of, trying to put myself in the shoes of future developers. 
- * Have recently been asked and wrote a blog post about what I deem 'good quality' in code. Here is a [link to the post](https://andreacodesblog.wordpress.com/2016/08/08/what-is-good-quality-code/).
+ * Have recently been asked and wrote a blog post about what I deem 'good quality' in code. Here is a [link to the post](https://andreacodesblog.wordpress.com/2016/08/08/what-is-good-quality-code/). Highlights: Simplicity | Human-readibility | Modularity | Ease of change | Squint test | Least surprise.
 
 #### Communication
 
