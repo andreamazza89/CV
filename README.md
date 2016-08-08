@@ -26,7 +26,7 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16-week
 
 #### Communication
 
-  * Pair programming is one of the best things ever discovered. I balance assertiveness and humbleness to achieve the best code out of the pair. Multiple humans tackling a single problem are so much better at solving it than individually. See an [article I wrote](https://andreacodesblog.wordpress.com/2016/06/04/good-programming-good-people/) about this.
+  * Pair programming is one of the best things ever discovered. I balance assertiveness and humbleness to achieve the best code out of the pair. Multiple humans are so much better at solving a problem than a single one is. See an [article I wrote](https://andreacodesblog.wordpress.com/2016/06/04/good-programming-good-people/) about this.
   * Am capable of adapting to the person I am relating to, with experience in a variety of contexts, from ultra-high net worth individuals as a Project Manager, through Architects as a Design manager and peer programmers at Makers.
   * Enjoy teaching/mentoring as a mean to self-improvement and to enable others in growing their knowledge and processes.  
   
