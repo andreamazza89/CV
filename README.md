@@ -13,16 +13,16 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16 week
 
 #### Analitical Thinking
 
-  * diagram master
-  * list
+  * Strive to simplify complex tasks/concepts by breaking them down into smaller and simpler units. I use plain English to solve a problem at an abstract level first, then translate my solution into concrete code, using tests to drive the development.
+  * Extensive use of diagrams to map out the systems/concepts I face to more easily reason about them. I ran a workshop on diagramming for Junior students at Makers Academy. See [this link] (https://github.com/andreamazza89/presentations/tree/master/diagramming_presentation) to the presentation.
+  * Designed and overlooked the installation of large-scale residential audio-video-lighting control systems. 
 
-#### Problem solving
+#### Clean code
 
-  * taking one step back
-
-#### Simplicity
-
-  * 
+ * Take pride in the code I produce and always ask myself if I could make it simpler, more efficient and easier to understand.
+ * Endeavour to write code that is easily extensible and reusable, often choosing modular over monolithic. I wrote about this in a [blog post] (https://andreacodesblog.wordpress.com/2016/06/11/i-smashed-my-headphones-and-now-i-am-a-better-programmer/).  
+ * Attention to detail, including choice of names. I carefully pick the clearest, most descriptive and least ambiguous name I can think of, trying to put myself in the shoes of future developers. 
+ * Have recently been asked and wrote a blog post about what I deem 'good quality' in code. Here is a [link to the post].
 
 #### Communication
 
@@ -30,6 +30,13 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16 week
   * Love pairing (blog) 
   * Array of different interactions, context switching (millionaire clients, Architects, Our own engineers, peer programmers at Makers).
   * Humble
+  
+
+#### Problem solving
+
+  * Have troboulshooted several systems, both as a Maker and in my previous roles as Live Sound Engineer and Design Manager.
+  * Approach problem solving with focus and calm; am able to take a step back and take a fresh approach when necessary.
+  * Follow a scientific method by observing the problem , then formulating hypotheses, finally testing them in order of most likelyhood. 
 
 ## Projects
 
