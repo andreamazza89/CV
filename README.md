@@ -11,11 +11,13 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16-week
 
 ## Skills
 
-#### Analytical Thinking
+#### Analytical thinking - Problem solving
 
-  * Simplicity | Strive to simplify complex tasks/concepts by breaking them down into smaller/simpler units. I use plain English to solve a problem at an abstract level first, then translate into code, test-driving the development.
-  * Extensive use of diagrams to map out the systems/concepts I face to more easily reason about them. I ran a workshop on diagramming for Junior students at Makers Academy. See [this link] (https://github.com/andreamazza89/presentations/tree/master/diagramming_presentation) to the presentation.
-  * Designed and overlooked the installation of large-scale residential audio-video-lighting control systems. 
+  * _Simplicity_ | Strive to simplify complex tasks/concepts by breaking them down into smaller/simpler units. I use plain English to solve a problem at an abstract level first, then translate into code, test-driving the development.
+  * _Diagramming_ | Extensive use of diagrams to map out systems/concepts I face to more easily reason about them. See [this link] (https://github.com/andreamazza89/presentations/tree/master/diagramming_presentation) to a workshop I wrote and ran for Junior students at Makers Academy.
+  * _Calm and focus_ | Approach problem solving with focus and calm; I am able to take a step back and take a fresh approach when necessary.
+  * _Troubleshooting_ | Have troubleshooted several systems, both as a Maker and in my previous roles as Live Sound Engineer and Design Manager. No matter the system under the lens, I use logic to methodically get to the root of the issue.
+  * _Scientific approach_ |  Follow a scientific method by observing the problem , then formulating hypotheses, finally testing them in order of most likelihood. 
 
 #### Clean code
 
@@ -29,14 +31,7 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16-week
   * Pair programming is one of the best things ever discovered. I balance assertiveness and humbleness to achieve the best code out of the pair. Multiple humans are so much better at solving a problem than a single one is. See an [article I wrote](https://andreacodesblog.wordpress.com/2016/06/04/good-programming-good-people/) about this.
   * Am capable of adapting to the person I am relating to, with experience in a variety of contexts, from ultra-high net worth individuals as a Project Manager, through to Architects as a Design manager and peer programmers at Makers.
   * Enjoy teaching/mentoring as a means to self-improvement and to enable others in growing their knowledge and processes.  
-  
-
-#### Problem solving
-
-  * Have troubleshooted several systems, both as a Maker and in my previous roles as Live Sound Engineer and Design Manager.
-  * Approach problem solving with focus and calm; am able to take a step back and take a fresh approach when necessary.
-  * Follow a scientific method by observing the problem , then formulating hypotheses, finally testing them in order of most likelihood. 
-
+ 
 ## Projects
 
 |Github|Description|Highlights|Technologies|
