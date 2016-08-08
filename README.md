@@ -3,7 +3,7 @@
 
 [skills](#skills) | [projects](#projects) | [community](#community) | [experience](#experience) | [education](#education) | [other interests](#Other interests)
 
-I am **curious** about most things. This drives me to learn more everyday and deepen my understanding of what I already know. I have come to appreciate and actively seek **feedback** as this helps me improve faster, both as a person and a developer. I am allergic to any code that _is not_ well crafted, clean, clearly named, modular and simple. If I work on a codebase with any of these attributes, I try to leave it in a better state than I found it.
+I am **curious** about most things. This drives me to learn more everyday and deepen my understanding of what I already know. I have come to appreciate and actively seek **feedback** as this helps me improve faster, both as a person and a developer. I am allergic to any code that _is not_ well crafted, clean, clearly named, modular and **simple**. If I work on a codebase with any of these attributes, I try to leave it in a better state than I found it.
 
 **Passion** is what drives me. I have moved away from a succesful career in high-end residential home automation to pursue my passion for software development. There is nothing I like more than a challenge and the immense satisfaction I take in solving a problem.
 
@@ -13,16 +13,23 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16 week
 
 #### Analitical Thinking
 
+  * diagram master
+  * list
+
 #### Problem solving
 
-#### Good design principles, simplicity
+  * taking one step back
+
+#### Simplicity
+
+  * 
 
 #### Communication
 
-#### Fast learning
-
-#### Can do, will do
-
+  * Good teacher, good listener
+  * Love pairing (blog) 
+  * Array of different interactions, context switching (millionaire clients, Architects, Our own engineers, peer programmers at Makers).
+  * Humble
 
 ## Projects
 
