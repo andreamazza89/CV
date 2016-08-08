@@ -60,16 +60,16 @@ As a member of the community I have both enjoyed learning from passionate senior
 ## Experience
 
 #### (Jul 2013 - May 2016) - [Environ Audio Ltd (Home technology)] (http://www.myenviron.co.uk/)
-Design & Project Manager
+Design & Project Manager - Managed design team, organised site operations and liaised with clients.
 
 #### (Oct 2012 - Jul 2013) - [Environ Audio Ltd (Home technology)] (http://www.myenviron.co.uk/)
-Lighting programmer
+Lighting programmer - Designed, setup and programmed large residential lighting control systems.
 
 #### (May 2011 - Sep 2012) - [Environ Audio Ltd (Home technology)] (http://www.myenviron.co.uk/)
-Design Technician
+Design Technician - Schematics, wiring schedules, rack design, using AutoCAD.
 
 #### (Jul 2008 - Sep 2010) - Eliseo Mozzicafreddo PA hire
-Live sound engineer 
+Live sound engineer - Assemble PA systems, liaise with bands, orchestras and live mix shows.
 
 ## Education
 
