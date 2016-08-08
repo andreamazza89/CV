@@ -7,7 +7,7 @@ I am **curious** about most things. This drives me to learn more everyday and de
 
 **Passion** is what drives me. I have moved away from a succesful career in high-end residential home automation to pursue my passion for software development. There is nothing I like more than a challenge and the immense satisfaction I take in solving a problem.
 
-Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16 weeks intensive coding bootcamp-, I look forward to joining a company where I can make a difference as a junior developer, contibuting with my skills and **positivity**. I subscribe to **Agile/XP** values, and would like to carry on pairing and test-driving development in my work as a software engineer.
+Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16-week intensive coding bootcamp-, I look forward to joining a company where I can make a difference as a junior developer, contibuting with my skills and **positivity**. I subscribe to **Agile/XP** values, and would like to carry on pairing and test-driving development in my work as a software engineer.
 
 ## Skills
 
@@ -74,8 +74,10 @@ Live sound engineer
 ## Education
 
 #### (May 2016 - Aug 2016) [Makers Academy] (http://www.makersacademy.com)
+16-week intensive coding bootcamp. Test driven development, Agile/XP methodologies, full stack. 
 
 #### (Sep 2009 - Jun 2013) [Sound Engineering BMus, Univeristy of Surrey] (http://www.surrey.ac.uk/undergraduate/music-and-sound-recording-tonmeister)
+First-class honours. Modules included: Sound Synthesis, Electroacoustics, Acoustics, Sound Engineering, Psycoacoustics.
 
 ## Other interests
 
