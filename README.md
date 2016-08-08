@@ -13,7 +13,7 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16-week
 
 #### Analytical Thinking
 
-  * Strive to simplify complex tasks/concepts by breaking them down into smaller and simpler units. I use plain English to solve a problem at an abstract level first, then translate my solution into concrete code, using tests to drive the development.
+  * Simplicity | Strive to simplify complex tasks/concepts by breaking them down into smaller/simpler units. I use plain English to solve a problem at an abstract level first, then translate into code, test-driving the development.
   * Extensive use of diagrams to map out the systems/concepts I face to more easily reason about them. I ran a workshop on diagramming for Junior students at Makers Academy. See [this link] (https://github.com/andreamazza89/presentations/tree/master/diagramming_presentation) to the presentation.
   * Designed and overlooked the installation of large-scale residential audio-video-lighting control systems. 
 
