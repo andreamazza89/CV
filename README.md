@@ -54,7 +54,7 @@ As a member of the community I have both enjoyed learning from passionate senior
 
 * Coaching volunteer at [Codebar] (https://codebar.io/), a non-profit initiative running workshops for underrepresented groups. 
 * Arranged and ran workshops for junior students at Makers Academy. See [this link] (https://github.com/andreamazza89/presentations/tree/master) to my presentations.  
-* Member of the London Software Craftmanship Community. Evening pairing sessions are my favourite.
+* Member of the London Software Craftmanship Community. Evening pairing sessions are my favourites.
 * Frequently attend meetups to learn, hear about new technologies and exchange opinions. See a [post] (https://andreacodesblog.wordpress.com/2016/06/18/meetups-are-the-bomb/) I wrote on this.
 
 ## Experience
