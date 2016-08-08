@@ -81,4 +81,4 @@ First-class honours. <br> Modules included: Sound Synthesis, Electroacoustics, A
 
 ## Other interests
 
-__ Basketball player __ Ceramics __ Music (I play keyboard) __ Table tennis __ Delicious food, especially from the sea __
+__ Basketball player __ Ceramics __ Music (keyboard player) __ Table tennis __ Delicious food, especially from the sea __
