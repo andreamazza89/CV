@@ -59,13 +59,17 @@ As a member of the community I have both enjoyed learning from passionate senior
 
 ## Experience
 
-#### (Jul 2013 - May 2016) - Design/Project Manager at [Environ Audio Ltd (Home technology)] (http://www.myenviron.co.uk/)
+#### (Jul 2013 - May 2016) - [Environ Audio Ltd (Home technology)] (http://www.myenviron.co.uk/)
+Design & Project Manager
 
-#### (Oct 2012 - Jul 2013) - Lighting programmer at [Environ Audio Ltd (Home technology)] (http://www.myenviron.co.uk/)
+#### (Oct 2012 - Jul 2013) - [Environ Audio Ltd (Home technology)] (http://www.myenviron.co.uk/)
+Lighting programmer
 
-#### (May 2011 - Sep 2012) - Design Technician at [Environ Audio Ltd (Home technology)] (http://www.myenviron.co.uk/)
+#### (May 2011 - Sep 2012) - [Environ Audio Ltd (Home technology)] (http://www.myenviron.co.uk/)
+Design Technician
 
-#### (Jul 2008 - Sep 2010) - Live sound engineer at Eliseo Mozzicafreddo PA hire
+#### (Jul 2008 - Sep 2010) - Eliseo Mozzicafreddo PA hire
+Live sound engineer 
 
 ## Education
 
@@ -75,4 +79,4 @@ As a member of the community I have both enjoyed learning from passionate senior
 
 ## Other interests
 
-_ Basketball player _ Ceramics _ Music (I play keyboard) _ Table tennis _ Delicious food, especially from the sea _
+__ Basketball player __ Ceramics __ Music (I play keyboard) __ Table tennis __ Delicious food, especially from the sea __
