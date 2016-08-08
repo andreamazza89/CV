@@ -14,17 +14,17 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16-week
 #### Analytical thinking - Problem solving
 
   * _Simplicity_ | Strive to simplify complex tasks/concepts by breaking them down into smaller/simpler units. I use plain English to solve a problem at an abstract level first, then translate into code, test-driving the development.
-  * _Diagramming_ | Extensive use of diagrams to map out systems/concepts I face to more easily reason about them. See [this link] (https://github.com/andreamazza89/presentations/tree/master/diagramming_presentation) to a workshop I wrote and ran for Junior students at Makers Academy.
+  * _Diagramming_ | Extensive use of diagrams to map out systems/concepts I face to more easily reason about them. See [this link] (https://github.com/andreamazza89/presentations/tree/master/diagramming_presentation) to a workshop I wrote on the subject and ran for Junior students at Makers Academy.
   * _Calm and focus_ | Approach problem solving with focus and calm; I am able to take a step back and take a fresh approach when necessary.
   * _Troubleshooting_ | Have troubleshooted several systems, both as a Maker and in my previous roles as Live Sound Engineer and Design Manager. No matter the system under the lens, I use logic to methodically get to the root of the issue.
-  * _Scientific approach_ |  Follow a scientific method by observing the problem , then formulating hypotheses, finally testing them in order of most likelihood. 
+  * _Scientific approach_ | Follow a scientific method by observing the problem, then formulating hypotheses, finally testing them in order of most likelihood. 
 
 #### Clean code
 
- * Take pride in the code I produce and always ask myself if it could be made simpler, more efficient and easier to understand.
- * Endeavour to write code that is easily extensible and reusable, most often choosing modular over monolithic. I wrote about this in a [blog post] (https://andreacodesblog.wordpress.com/2016/06/11/i-smashed-my-headphones-and-now-i-am-a-better-programmer/).  
- * Attention to detail, including choice of names. I carefully pick the clearest, most descriptive and least ambiguous name I can think of, trying to put myself in the shoes of future developers. 
- * Have recently been asked and wrote a blog post about what I deem 'good quality' in code. Here is a [link to the post](https://andreacodesblog.wordpress.com/2016/08/08/what-is-good-quality-code/). Highlights: Simplicity | Human-readability | Modularity | Ease of change | Squint test | Least surprise.
+ * _Continual improvement_ | Take pride in the code I produce and always ask myself if it could be made simpler, more efficient and easier to understand.
+ * _Modular code_ | Endeavour to write code that is easily extensible and reusable, most often choosing modular over monolithic. I wrote about this in a [blog post] (https://andreacodesblog.wordpress.com/2016/06/11/i-smashed-my-headphones-and-now-i-am-a-better-programmer/).  
+ * _Meaningful names_ | Attention to detail, including choice of names. I carefully pick the clearest, most descriptive and least ambiguous name I can think of, trying to put myself in the shoes of future developers. 
+ * _Good quality_ | Have recently been asked and wrote a blog post about what I deem 'good quality' in code. Here is a [link to the post](https://andreacodesblog.wordpress.com/2016/08/08/what-is-good-quality-code/). Highlights: Simplicity | Human-readability | Modularity | Ease of change | Squint test | Least surprise.
 
 #### Communication
 
