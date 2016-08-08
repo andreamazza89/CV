@@ -1,5 +1,5 @@
 # Andrea Mazzarella
-:envelope: <andrea.mazzarella89@gmail.com> | :phone: +44 (0)7733362000 | :globe_with_meridians: [www.andreamazzarella.com](http://www.andreamazzarella.com)
+:globe_with_meridians: [www.andreamazzarella.com](http://www.andreamazzarella.com)
 
 [skills](#skills) | [projects](#projects) | [community](#community) | [experience](#experience) | [education](#education) | [other interests](#Other interests)
 
