@@ -1,7 +1,7 @@
 # Andrea Mazzarella
 :globe_with_meridians: [www.andreamazzarella.com](http://www.andreamazzarella.com)
 
-[skills](#skills) | [projects](#projects) | [community](#community) | [experience](#experience) | [education](#education) | [other interests](#Other_interests)
+[skills](#skills) | [projects](#projects) | [community](#community) | [experience](#experience) | [education](#education) | [other_interests](#Other_interests)
 
 I am **curious** about most things. This drives me to learn more everyday and deepen my understanding of what I already know. I have come to appreciate and actively seek **feedback** as this helps me improve faster, both as a person and a developer. I am allergic to any code that _is not_ well crafted, clean, clearly named, modular and **simple**. If I work on a codebase with any of these attributes, I do my best to leave it in a better state than I found it.
 
