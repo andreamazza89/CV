@@ -3,9 +3,9 @@
 
 [skills](#skills) | [projects](#projects) | [community](#community) | [experience](#experience) | [education](#education) | [other interests](#Other interests)
 
-I am **curious** about most things. This drives me to learn more everyday and deepen my understanding of what I already know. I have come to appreciate and actively seek **feedback** as this helps me improve faster, both as a person and a developer. I am allergic to any code that _is not_ well crafted, clean, clearly named, modular and **simple**. If I work on a codebase with any of these attributes, I try to leave it in a better state than I found it.
+I am **curious** about most things. This drives me to learn more everyday and deepen my understanding of what I already know. I have come to appreciate and actively seek **feedback** as this helps me improve faster, both as a person and a developer. I am allergic to any code that _is not_ well crafted, clean, clearly named, modular and **simple**. If I work on a codebase with any of these attributes, I do my best to leave it in a better state than I found it.
 
-**Passion** is what drives me. I have moved away from a successful career in high-end residential home automation to pursue my passion for software development. There is nothing I like more than a challenge and the immense satisfaction I take in solving a problem.
+**Passion** is what drives me. I have moved away from a successful career in high-end residential home automation to pursue my passion for software development. There is nothing I like more than a challenge and the immense satisfaction of solving a problem.
 
 Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16-week intensive coding bootcamp-, I look forward to joining a company where I can make a difference as a junior developer, contributing with my skills and **positivity**. I subscribe to **Agile/XP** values, and would like to carry on pairing and test-driving development in my work as a software engineer.
 
@@ -27,8 +27,8 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16-week
 #### Communication
 
   * Pair programming is one of the best things ever discovered. I balance assertiveness and humbleness to achieve the best code out of the pair. Multiple humans are so much better at solving a problem than a single one is. See an [article I wrote](https://andreacodesblog.wordpress.com/2016/06/04/good-programming-good-people/) about this.
-  * Am capable of adapting to the person I am relating to, with experience in a variety of contexts, from ultra-high net worth individuals as a Project Manager, through Architects as a Design manager and peer programmers at Makers.
-  * Enjoy teaching/mentoring as a mean to self-improvement and to enable others in growing their knowledge and processes.  
+  * Am capable of adapting to the person I am relating to, with experience in a variety of contexts, from ultra-high net worth individuals as a Project Manager, through to Architects as a Design manager and peer programmers at Makers.
+  * Enjoy teaching/mentoring as a means to self-improvement and to enable others in growing their knowledge and processes.  
   
 
 #### Problem solving
