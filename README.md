@@ -77,7 +77,7 @@ Live sound engineer
 16-week intensive coding bootcamp. Test driven development, Agile/XP methodologies, full stack. 
 
 #### (Sep 2009 - Jun 2013) [Sound Engineering BMus, Univeristy of Surrey] (http://www.surrey.ac.uk/undergraduate/music-and-sound-recording-tonmeister)
-First-class honours. Modules included: Sound Synthesis, Electroacoustics, Acoustics, Sound Engineering, Psycoacoustics.
+First-class honours. <br> Modules included: Sound Synthesis, Electroacoustics, Acoustics, Sound Engineering, Psycoacoustics.
 
 ## Other interests
 
