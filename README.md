@@ -22,14 +22,13 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16 week
  * Take pride in the code I produce and always ask myself if I could make it simpler, more efficient and easier to understand.
  * Endeavour to write code that is easily extensible and reusable, often choosing modular over monolithic. I wrote about this in a [blog post] (https://andreacodesblog.wordpress.com/2016/06/11/i-smashed-my-headphones-and-now-i-am-a-better-programmer/).  
  * Attention to detail, including choice of names. I carefully pick the clearest, most descriptive and least ambiguous name I can think of, trying to put myself in the shoes of future developers. 
- * Have recently been asked and wrote a blog post about what I deem 'good quality' in code. Here is a [link to the post].
+ * Have recently been asked and wrote a blog post about what I deem 'good quality' in code. Here is a [link to the post](https://andreacodesblog.wordpress.com/2016/08/08/what-is-good-quality-code/).
 
 #### Communication
 
-  * Good teacher, good listener
-  * Love pairing (blog) 
-  * Array of different interactions, context switching (millionaire clients, Architects, Our own engineers, peer programmers at Makers).
-  * Humble
+  * Pair programming is one of the best things ever discovered. I balance assertiveness and humbleness to achieve the best code out of the pair. Multiple humans tackling a single problem are so much better at solving it than individually. See an [article I wrote](https://andreacodesblog.wordpress.com/2016/06/04/good-programming-good-people/) about this.
+  * Am capable of adapting to the person I am relating to, with experience in a variety of contexts, from ultra-high net worth individuals as a Project Manager, through Architects as a Design manager and peer programmers at Makers.
+  * Enjoy teaching/mentoring as a mean to self-improvement and to enable others in growing their knowledge and processes.  
   
 
 #### Problem solving
