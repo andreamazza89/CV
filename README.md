@@ -28,14 +28,14 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com), I look fo
 |---|---|---|---|
 |[Battlecodes](https://github.com/gtormiston/battlecodes)|Realtime game for developers where players race to solve a coding challenge first <br> See my blog [post](https://andreacodesblog.wordpress.com/2016/07/23/battlecodes/) about this.|- Developed our own frontend testing framework <br> - Used websockets to create realtime client interaction and concurrent sessions (rooms)|Node.Js, Express, Sass, Socket.io, Mocha, Chai, Sinon, Zombie|
 |[Unicorn Framework](https://github.com/vannio/unicorn-framework)|Description|Highlights|technologies|
-|[InstaRails](https://github.com/andreamazza89/instagram-challenge)|Description|Highlights|technologies|
+|[InstaRails](https://github.com/andreamazza89/instagram-challenge)|Instagram clone, built in Rails to learn Rails. Several features in the pipeline.| -  Reduced test times using FactoryGirl <br> - Used Activerecords associations to reduce view code |Ruby, Rails, Paperclip, Devise, ActiveRecord, PostgreSQL, Rspec, FactoryGirl, Capybara|
 |[SMRT mirror](https://github.com/vannio/smrt-mirror)|A mirror with integrated display showing a number of widgets: news, time, weather, etc. <br> Includes radio alarm and gesture control. <br> Watch a [video] (https://www.youtube.com/watch?v=OYk-d6q4iWI&feature=youtu.be) of the product.|- Used templating to dynamically render views based on user configuration. <br> - Asynchronous api interactions <br> - Direct user interaction with hand gesetures |Node.js, Express, Sass, jQuery, Browsersync, Leap Motion, Nunjucks, Mocha, Chai, Sinon WebDriverIO|
 
 ## Community
 
 Together we are stronger, and by helping others grow, we grow as well.
 
-As a member of the community I have both enoyed learning from passionate senior developers and giving back as much as I can.
+As a member of the community I have both enjoyed learning from passionate senior developers and giving back as much as I can.
 
 * Coaching volunteer at [Codebar] (https://codebar.io/), a non-profit initiative running workshops for underrepresented groups. 
 * Arranged and ran workshops for junior students at Makers Academy. See [this link] (https://github.com/andreamazza89/presentations/tree/master) to my presentations.  
