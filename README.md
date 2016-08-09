@@ -16,7 +16,7 @@ Having graduated from [Makers Academy] (http://www.makersacademy.com) -a 16-week
   * _Simplicity_ | Strive to simplify complex tasks/concepts by breaking them down into smaller/simpler units. I use plain English to solve a problem at an abstract level first, then translate into code, test-driving the development.
   * _Diagramming_ | Extensive use of diagrams to map out systems/concepts I face to more easily reason about them. See [this link] (https://github.com/andreamazza89/presentations/tree/master/diagramming_presentation) to a workshop I wrote on the subject and ran for Junior students at Makers Academy.
   * _Calm and focused_ | Approach problem solving with focus and calm; I am able to take a step back and take a fresh approach when necessary.
-  * _Troubleshooting_ | Troubleshooted several systems, both as a Maker and in my previous roles as Live Sound Engineer and Design Manager. No matter the system under the lens, I use logic to methodically get to the root of the issue.
+  * _Troubleshooting_ | Troubleshooted several systems, both as a Maker and in previous roles as Sound Engineer and Design Manager. No matter the system under the lens, I use logic to methodically get to the root of the issue.
   * _Scientific approach_ | Follow a scientific method by observing the problem, then formulating hypotheses, finally testing them in order of most likelihood. 
 
 #### Clean code
