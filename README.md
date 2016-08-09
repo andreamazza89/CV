@@ -71,7 +71,7 @@ Live sound engineer - Assemble PA systems, liaise with bands, orchestras and liv
 #### (May 2016 - Aug 2016) [Makers Academy] (http://www.makersacademy.com)
 16-week intensive coding bootcamp. Test driven development, Agile/XP methodologies, full stack. 
 
-#### (Sep 2009 - Jun 2013) [Sound Engineering BMus, Univeristy of Surrey] (http://www.surrey.ac.uk/undergraduate/music-and-sound-recording-tonmeister)
+#### (Sep 2009 - Jun 2013) [Sound Engineering BMus, University of Surrey] (http://www.surrey.ac.uk/undergraduate/music-and-sound-recording-tonmeister)
 First-class honours. <br> Modules included: Sound Synthesis, Electroacoustics, Acoustics, Sound Engineering, Psycoacoustics.
 
 ## Interests
